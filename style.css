@@ -7,16 +7,17 @@
 
 	width: 3%;
 	float: left;
-	margin-right: 10px; 
+	margin-right: 20px; 
+	margin-top: 15px; 
 }
 
 #rrss {
 
 	float: left;
-	margin-right: 10px;
+	margin: 10px 10px 0 10px;
 	padding: 15px;
 	font-size: 1em;
-}
+	}
 
 .jumbotron {
 
@@ -31,4 +32,12 @@
 .banner {
 
 	text-align: center;
+}
+
+#social {
+
+	background-color: black;
+	height: 5em;
+	margin-bottom: 0; 
+	box-sizing: border-box;
 }

@@ -14,11 +14,25 @@
 
 	text-align: center;
 	font-style: italic;
+	color: blue;
 }
 
-h1 {
+#main {
 
 	text-align: center;
+	font-family: 'Patrick Hand', cursive;
+	color: red;
+
+	}
+
+#colban1 {
+
+	margin-bottom: 20px;
+}
+
+#colban2 {
+
+	margin-bottom: 20px;
 }
 
 #map {
@@ -56,7 +70,7 @@ h1 {
 .banner {
 
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 80px;
 }
 
 #social {

@@ -158,27 +158,34 @@ margin-bottom: 5px;
 
 /* CSS NOTICIAS */
 
-#blogset {
+.blogset {
 
-	margin-top: 50px;
-	border-bottom: 1px solid grey; 
+	margin-top: 0px;
 }
 
-#blogimg {
+.blogset img {
 
 	max-width: 100%;
-	margin-top: 50px;
-	
+	margin-top: 30px;
+
 }
 
-#blogtxt {
+.blogtxt {
 
-	margin-top: 50px;
-	margin-bottom: 100px;
-	font-size: 16px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	font-size: 1.5em;
+
 }
 
-#blogtxt h3 {
+.blogtxt h3 {
 
-	margin: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
 }
+
+.blogtxt p {
+
+	font-size: 1em; 
+}
+

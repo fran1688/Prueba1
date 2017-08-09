@@ -1,3 +1,26 @@
+.navbar-brand {
+
+	width: 12vw;
+	padding-top: 5px;  
+	}
+
+.jumbotron {
+
+	background: linear-gradient(#6a8012, rgba(106, 175, 0, 0.49));
+	margin-bottom: 0px;
+}
+
+.slogan {
+
+	text-align: center;
+	font-style: italic;
+}
+
+h1 {
+
+	text-align: center;
+}
+
 #map {
 
 	margin-bottom: 50px;
@@ -19,11 +42,6 @@
 	font-size: 1em;
 	}
 
-.jumbotron {
-
-	margin-bottom: 0px;
-}
-
 .thumbnail {
 
 	margin-top: 50px;
@@ -32,6 +50,7 @@
 .banner {
 
 	text-align: center;
+	margin-top: 50px;
 }
 
 #social {

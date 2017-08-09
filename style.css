@@ -60,3 +60,13 @@ h1 {
 	margin-bottom: 0; 
 	box-sizing: border-box;
 }
+
+span {
+
+	font-weight: bold;
+}
+
+span .grey {
+
+	color: #888888;
+}

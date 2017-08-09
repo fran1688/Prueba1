@@ -39,7 +39,7 @@
 	text-align: left;
 	font-family: 'Patrick Hand', cursive;
 	color: red;
-	font-size: 5em;
+	font-size: 5vw;
 	margin-left: 100px;
 
 	}
@@ -64,9 +64,14 @@
 	margin-bottom: 20px;
 }
 
-#map {
+.map h2 {
 
-	margin-bottom: 50px;
+	margin-bottom: 30px;
+}
+
+.form h2 {
+
+	margin-bottom: 30px;
 }
 
 .red {

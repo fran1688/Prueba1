@@ -90,8 +90,6 @@ span {
 
 #lolo {
 
-width: 205px;
-height: 310px;
 margin-bottom: 5px;
 
 }
@@ -99,7 +97,11 @@ margin-bottom: 5px;
 
 #jim {
 
-width: 205px;
-height: 310px;
 margin-bottom: 5px;
+
+}
+
+#monumento {
+
+	margin-bottom: 10%;
 }

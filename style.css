@@ -4,14 +4,16 @@
 	padding-top: 5px;  
 	}
 
-#header {
+.header {
 
 	background-image: url(images/green-curves-artistic-abstract-header-2775.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
+	background-size: 100%;
 	max-width: 100%;
 	height: 30vh;
 	margin-top: 52px;
+	padding: 12px;
 }	
 
 .jumbotron {

@@ -4,13 +4,13 @@
 	padding-top: 3px;  
 	}
 
-.header {
+#header {
 
 	background-image: url(images/green-curves-artistic-abstract-header-2775.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 100%;
-	height: 18vw;
+	background-size: 150%;
+	height: 30vh;
 	margin-top: 52px;
 	padding: 10px;
 		
@@ -29,8 +29,7 @@
 	color: blue;
 	font-size: 2vw;
 	margin-left: 100px;
-	padding: 10px;
-	
+		
 }
 
 #servicios {
@@ -46,7 +45,7 @@
 	color: red;
 	font-size: 5vw;
 	margin-left: 100px;
-	padding: 10px;
+	
 
 	}
 

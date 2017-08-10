@@ -76,6 +76,11 @@
 	margin-bottom: 30px;
 }
 
+.footer {
+
+	margin-top: 50px;
+}
+
 .red {
 
 	width: 3%;
@@ -187,7 +192,7 @@ margin-bottom: 5px;
 
 .blog img {
 
-	max-width: 70%;
+	max-width: 90%;
 	margin-top: 30px;
 	
 

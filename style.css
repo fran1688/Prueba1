@@ -10,10 +10,10 @@
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 100%;
-	max-width: 100%;
 	height: 18vw;
 	margin-top: 52px;
 	padding: 10px;
+		
 }	
 
 .jumbotron {
@@ -29,6 +29,8 @@
 	color: blue;
 	font-size: 2vw;
 	margin-left: 100px;
+	padding: 10px;
+	
 }
 
 #servicios {
@@ -38,11 +40,13 @@
 
 #main {
 
+	
 	text-align: left;
 	font-family: 'Patrick Hand', cursive;
 	color: red;
 	font-size: 5vw;
 	margin-left: 100px;
+	padding: 10px;
 
 	}
 
